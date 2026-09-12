@@ -1,4 +1,4 @@
-# 🚀 MonkeyCode AI Project
+#  MonkeyCode AI Project
 
 A modern web project created using **MonkeyCode AI**. This project showcases AI-assisted development, creative UI design, and an interactive web experience.
 
